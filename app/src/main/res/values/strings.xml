@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="add_item">Add Product</string>
+    <string name="details">Info</string>
+    <string name="lets_add">Let\'s add items to the Inventory!</string>
+    <string name="delete_all">Delete All</string>
+    <string name="order">Order</string>
+    <string name="delete">Delete</string>
+    <string name="add_image">Add Image</string>
+    <string name="add">Add</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="product_name">Product Name</string>
+    <string name="order_request_for">Order Request for \'</string>
+    <string name="dear">"Dear "</string>
+    <string name="we_would_like_to_order_more_of_your_product">:\n\nWe would like to order more of your product \'</string>
+    <string name="regards">.\'\n\nRegards,\n</string>
+</resources>
